@@ -1,0 +1,13 @@
+git status
+
+git checkout -b test --> creates a branch
+
+git checkout main --> changes branch to main
+
+git add README.md --> selects the file before pushing
+
+git commit -m "Add changes" --> Add commit message
+
+git push origin test --> pushing changes to github repository
+
+git pull --> pulling latest changes from remote
